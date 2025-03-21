@@ -8,6 +8,7 @@ RayPad* is a 4-key macropad with 3 LEDs, and uses KMK firmware.
 
 ## CAD Model
 The case has two pieces. The main body, where the PCB is mounted, and the top cover. It is designed in Fusion 360.
+
 <img src="assets/cad1.png" width="50%" alt="RayPad CAD Main Body"/>
 <img src="assets/cad2.png" width="50%" alt="RayPad CAD Main Body"/>
 
