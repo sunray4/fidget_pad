@@ -1,5 +1,6 @@
 # RayPad
 RayPad is a 4-key macropad with 3 LEDs, and uses KMK firmware.
+
 <img src="assets/assembled_raypad.JPG" width="50%" alt="assembled raypad"/>
 
 ## Features
